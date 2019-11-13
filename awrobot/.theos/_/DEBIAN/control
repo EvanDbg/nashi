@@ -1,0 +1,11 @@
+Package: com.ns.awrobot
+Name: 那是助手
+Depends: mobilesubstrate, firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Description: only finish, never back!
+Maintainer: liu
+Author: liu
+Section: Utilities
+Homepage: www.nashi.com
+Version: 1.3
+Installed-Size: 752

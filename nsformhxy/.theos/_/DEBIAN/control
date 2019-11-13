@@ -1,0 +1,11 @@
+Package: com.ns.mhxy
+Name: nsformhxy
+Depends: mobilesubstrate, firmware (>= 7.0),kr.iolate.simulatetouch (>= 0.7-17), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Description: mhxy elf!梦幻西游插件！
+Maintainer: liu
+Author: liu
+Section: Tweaks
+Homepage: www.nashi.com
+Version: 1.0
+Installed-Size: 35076

@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.netease.my",
+			"com.apple.springboard",
+		);
+	};
+}
