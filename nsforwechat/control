@@ -1,0 +1,10 @@
+Package: com.ns.wechat
+Name: nsforwechat
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.2
+Architecture: iphoneos-arm
+Description: WeChat elf!微信插件！
+Maintainer: liu
+Author: liu
+Section: Tweaks
+Homepage: www.nashi.com
