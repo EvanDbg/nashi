@@ -1,10 +1,9 @@
 Package: com.ns.mhxy
-Name: nsformhxy
+Name: 梦幻西游
 Depends: mobilesubstrate, firmware (>= 7.0),kr.iolate.simulatetouch (>= 0.7-17), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Version: 1.0
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: mhxy elf!梦幻西游插件！
-Maintainer: liu
-Author: liu
+Description: 需要安装那是助手，才能使用，梦幻西游插件！
+Maintainer: mark
+Author: mark
 Section: Tweaks
-Homepage: www.nashi.com

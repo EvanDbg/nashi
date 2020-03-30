@@ -1,0 +1,10 @@
+Package: com.ns.mhxy
+Name: 梦幻西游
+Depends: mobilesubstrate, firmware (>= 7.0),kr.iolate.simulatetouch (>= 0.7-17), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Description: 需要安装那是助手，才能使用，梦幻西游插件！
+Maintainer: mark
+Author: mark
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 35076

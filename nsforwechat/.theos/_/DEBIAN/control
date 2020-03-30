@@ -1,0 +1,10 @@
+Package: com.ns.wechat
+Name: 微信抢红包
+Depends: mobilesubstrate, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: 需要安装那是助手，才能使用，微信抢红包插件！
+Maintainer: mark
+Author: mark
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 136
